@@ -1,1 +1,1 @@
-ffmpeg.exe -ss 00:00:00 -i "in file.mp4" -to 00:01:00 -c copy out.mp4
+ffmpeg.exe -ss 00:00:00 -i "file.mp4" -to 00:01:00 -c copy out.mp4
